@@ -1,0 +1,69 @@
+Privacy Policy — DigiCap Bot
+
+Last updated: October 2025
+
+Thank you for using DigiCap Bot!
+This Privacy Policy explains what data the bot collects, how it’s used, and how we protect it.
+
+1️⃣ Information We Collect
+
+DigiCap Bot collects only the minimum data necessary to function properly, including:
+
+Your Discord User ID and Server ID (for command and economy tracking)
+
+Basic user information like username and discriminator (for display purposes)
+
+Command usage data such as !balance, !work, or other bot-related interactions
+
+No personally identifiable information (like real names, emails, or locations) is ever collected.
+
+2️⃣ How We Use the Data
+
+The data we collect is used solely for:
+
+Managing in-bot features such as economy systems, rankings, and rewards
+
+Providing command functionality and ensuring fair use
+
+Maintaining logs for debugging or improving bot performance
+
+We do not sell, rent, or share your data with third parties.
+
+3️⃣ Data Storage
+
+All economy and user data are stored locally in a database file (islamic_economy.db).
+
+No external servers or cloud databases are used.
+
+Only the bot owner has access to this data.
+
+If the database is reset, your virtual currency and progress may be permanently deleted.
+
+4️⃣ Data Removal
+
+If you wish to have your stored data deleted:
+
+Contact the bot owner via Discord with your User ID.
+
+Your record will be manually removed from the database.
+
+Once deleted, your economy progress and other data cannot be recovered.
+
+5️⃣ Security
+
+We take data security seriously:
+
+Tokens, API keys, and credentials are stored securely in .env files and never shared.
+
+The bot runs in a controlled environment to prevent unauthorized access.
+
+However, please understand that no system is completely immune to security risks.
+
+6️⃣ Changes to This Policy
+
+This Privacy Policy may be updated from time to time.
+You’ll always be able to view the latest version via the !privacy command or linked document.
+
+💬 Contact
+
+If you have questions, concerns, or data deletion requests, please reach out to the bot owner on Discord.
